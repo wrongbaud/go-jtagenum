@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/stianeikeland/go-rpio@latest"
+	"github.com/stianeikeland/go-rpio"
 )
 
 type JtagPinDriverRpio struct {
